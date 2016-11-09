@@ -6,6 +6,7 @@ import org.springframework.cloud.Cloud;
 import org.springframework.cloud.CloudFactory;
 import org.springframework.context.annotation.Bean;
 
+
 @SpringBootApplication
 public class CustomhashmapApplication {
 

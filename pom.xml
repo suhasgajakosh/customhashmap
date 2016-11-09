@@ -9,7 +9,7 @@
 	<packaging>war</packaging>
 
 	<name>hashmap-service-broker</name>
-	<description>Demo project to create Service Broker to useHashMap as a Service in Cloud Foundry</description>
+	<description>Demo project to create Service Broker to use HashMap as a Service in Cloud Foundry</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>

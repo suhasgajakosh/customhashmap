@@ -1,0 +1,6 @@
+---
+applications:
+- name: haash-broker1
+  memory: 512M
+  path: target/hashmap-service-broker-0.0.1-SNAPSHOT.war
+  buildpack: java_buildpack
